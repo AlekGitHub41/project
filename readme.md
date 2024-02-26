@@ -1,5 +1,5 @@
 # В качестве бд используется mysql
-## Для работы создайте бд под названием project и таблицу users
+## Для работы создайте бд под названием project и таблицу users, саму папку с кодом нужно переименовать в project
 ```sql
 CREATE TABLE project.users (
 id INT AUTO_INCREMENT PRIMARY KEY,
